@@ -1,0 +1,14 @@
+C:\Users\pranjha\eshop\eshopAPI\bin\Debug\netcoreapp2.1\eshopAPI.deps.json
+C:\Users\pranjha\eshop\eshopAPI\bin\Debug\netcoreapp2.1\eshopAPI.runtimeconfig.json
+C:\Users\pranjha\eshop\eshopAPI\bin\Debug\netcoreapp2.1\eshopAPI.runtimeconfig.dev.json
+C:\Users\pranjha\eshop\eshopAPI\bin\Debug\netcoreapp2.1\eshopAPI.dll
+C:\Users\pranjha\eshop\eshopAPI\bin\Debug\netcoreapp2.1\eshopAPI.pdb
+C:\Users\pranjha\eshop\eshopAPI\obj\Debug\netcoreapp2.1\eshopAPI.csprojAssemblyReference.cache
+C:\Users\pranjha\eshop\eshopAPI\obj\Debug\netcoreapp2.1\eshopAPI.csproj.CoreCompileInputs.cache
+C:\Users\pranjha\eshop\eshopAPI\obj\Debug\netcoreapp2.1\eshopAPI.RazorAssemblyInfo.cache
+C:\Users\pranjha\eshop\eshopAPI\obj\Debug\netcoreapp2.1\eshopAPI.RazorAssemblyInfo.cs
+C:\Users\pranjha\eshop\eshopAPI\obj\Debug\netcoreapp2.1\eshopAPI.AssemblyInfoInputs.cache
+C:\Users\pranjha\eshop\eshopAPI\obj\Debug\netcoreapp2.1\eshopAPI.AssemblyInfo.cs
+C:\Users\pranjha\eshop\eshopAPI\obj\Debug\netcoreapp2.1\eshopAPI.RazorTargetAssemblyInfo.cache
+C:\Users\pranjha\eshop\eshopAPI\obj\Debug\netcoreapp2.1\eshopAPI.dll
+C:\Users\pranjha\eshop\eshopAPI\obj\Debug\netcoreapp2.1\eshopAPI.pdb
